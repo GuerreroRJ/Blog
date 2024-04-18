@@ -2,6 +2,4 @@ Este es un texto de prueba.
 
 test
 
-test cambios 
-
-SE hablara de su vida y su maestria
+Mañana nos enfocaremos en la vida laboral
